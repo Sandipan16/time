@@ -1,0 +1,23 @@
+body {
+  background-color: #34495e;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  position: relative;
+  top: 200px;
+}
+
+p,
+h1 {
+  color: #fff;
+}
+
+button {
+  background-color: #192a56;
+  border-radius: 25px;
+  color: #fff;
+  height: 30px;
+  box-shadow: 1px 1px 5px;
+}
